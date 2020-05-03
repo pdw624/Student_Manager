@@ -1,0 +1,56 @@
+﻿  ch11,12,13.c
+  ch16,17,18,19.c
+  ch21,22,23.c
+  ch24.c
+  ch7.c
+  ch8,9.c
+  day_1.c
+  ch14.c
+  FinalProject.c
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(32,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(34,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(36,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(38,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(45,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(50,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(72,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(74,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(91,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(100,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(124,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 'strcpy' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(152,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(156,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(158,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(160,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(162,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(173,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(194,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(196,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(203,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(207,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 'fscanf' 선언을 참조하십시오.
+D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\C_study\FinalProject.c(243,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FinalTest.c
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+  C_study.vcxproj -> D:\과제\취업준비\프로젝트모음\프로젝트모음\학생정보관리_최종자료_C\C_study\Debug\C_study.exe
